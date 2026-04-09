@@ -2,7 +2,7 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 
-#define BUZZER_GPIO 17
+#define BUZZER_GPIO 18
 #define LED_GREEN 32
 #define LED_YELLOW 33
 #define LED_RED 25
